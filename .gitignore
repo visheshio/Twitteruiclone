@@ -1,1 +1,24 @@
+# Dependencies
 /node_modules
+
+# Build output
+/src/dist
+dist
+
+# Generated CSS
+/src/output.css
+/src/test-output.css
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
