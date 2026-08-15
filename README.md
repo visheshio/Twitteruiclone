@@ -10,7 +10,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
-[Live Demo](#) · [Report Bug](https://github.com/visheshio/Twitteruiclone/issues) · [Request Feature](https://github.com/visheshio/Twitteruiclone/issues)
+[Live Demo](https://twitteruiclo.netlify.app/) · [Report Bug](https://github.com/visheshio/Twitteruiclone/issues) · [Request Feature](https://github.com/visheshio/Twitteruiclone/issues)
 
 </div>
 
