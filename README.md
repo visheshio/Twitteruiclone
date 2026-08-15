@@ -150,6 +150,8 @@ Twitteruiclone/
 <div align="center">
   <h3>Desktop Layout (Dark Mode)</h3>
   <p>Full 3-column view featuring Sidebar, Feed with multi-format posts, and Right Panel</p>
+  <img width="947" height="430" alt="image" src="https://github.com/user-attachments/assets/1a4bff46-48ba-4a9a-979e-b54fc813cb08" />
+
 </div>
 
 ---
